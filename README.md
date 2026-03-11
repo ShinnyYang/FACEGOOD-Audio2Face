@@ -168,7 +168,7 @@ uploaded the LPC source into code folder.
 <img src="rsc/fgcode.JPG" width = "200" height = "200" alt="" align=center />
 
 Wechat: FACEGOOD_CHINA  
-Email：support@facegood.cc  
+Email：jelo.wang@gmail.com
 Discord: https://discord.gg/V46y6uTdw8
 
 ## License
